@@ -46,6 +46,14 @@
 	.app-screen {
 		width: 50%;
 	}
+
+	.icon-small {
+		width: 20px;
+	}
+
+	.city-feature {
+		font-size: 90%
+	}
 }
 
 
